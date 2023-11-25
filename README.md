@@ -1,1 +1,1 @@
-https://MypyMypy.github.io/rsschool-cv/cv
+https://MypyMypy.github.io/rsschool-cv
